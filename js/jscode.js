@@ -6,3 +6,8 @@ function newtab(x){
         }
 
 }
+
+function changeText(idElement , content ) {
+    var element = document.getElementById(idElement);
+	element.innerHTML = content;
+}

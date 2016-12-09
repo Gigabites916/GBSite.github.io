@@ -9,6 +9,10 @@
 	width: 35%;
 	word-wrap: normal;
 }
+
+.textsemicenter a:hover {
+	 cursor: pointer;
+ }
 	
 .two{
    border-radius: 20px 20px 0 0;
