@@ -11,3 +11,7 @@ function changeText(idElement , content ) {
     var element = document.getElementById(idElement);
 	element.innerHTML = content;
 }
+
+function staytuned( name ){
+	alert("Stay tuned. " + name + " website will be uploaded and updated soon. " );
+}

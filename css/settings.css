@@ -5,9 +5,14 @@
 
 .textsemicenter{
 	text-align: left;
-        margin-left: 30%;	
+    margin-left: 30%;	
 	width: 35%;
 	word-wrap: normal;
+}
+
+.links{
+    text-align: left;
+    margin-left: 40%;		
 }
 
 .textsemicenter a:hover {
@@ -19,6 +24,14 @@
    background-color: white;
    border-color: green;
    height: 100%;
+   margin: 15px 15px 0px 15px;
+   box-shadow: -5px -5px 2px 2px #008E8E;
+}
+
+.links_two{
+   border-radius: 20px 20px 0 0;
+   background-color: white;
+   border-color: green;
    margin: 15px 15px 0px 15px;
    box-shadow: -5px -5px 2px 2px #008E8E;
 }
